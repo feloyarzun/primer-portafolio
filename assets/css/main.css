@@ -11973,24 +11973,8 @@ textarea.form-control-lg {
   background-color: #984c0c;
 }
 
-.img__section {
-  height: 60%;
-  width: 40%;
-  border-radius: 10px;
-  margin-top: 10px;
-}
-
-.img__section3 {
-  height: 60%;
-  width: 40%;
-  border-radius: 10px;
-  margin-top: 10px;
-}
-
-.form {
-  width: 50%;
-}
-
-.icon__skill {
-  font-size: 30px;
+.nav_img {
+  height: 60px;
+  border-radius: 5px;
+  border: 1px black;
 }/*# sourceMappingURL=main.css.map */

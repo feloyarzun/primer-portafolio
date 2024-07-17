@@ -1,23 +1,5 @@
-.img__section {
-  height: 70px;
-  border-radius: 10px;
-}
-
-.img__section3 {
-  height: 60%;
-  width: 40%;
-  border-radius: 10px;
-  margin-top: 10px;
-}
-
-.form {
-  width: 50%;
-}
-
-.icon__skill {
-  font-size: 70px;
-}
-
-.nav {
-  background-color: yellow;
+.nav_img {
+  height: 60px;
+  border-radius: 5px;
+  border: 1px black;
 }/*# sourceMappingURL=shame.css.map */
